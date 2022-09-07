@@ -12,7 +12,7 @@ const Header = ({ title }: HeaderProps) => {
   return (
     <Box sx={{ display: "flex", alignItems: "center", p: 3 }}>
       
-      <Image src={logoImage} alt="Logo" width={60} height={60} />
+      <Image src={logoImage} layout="fixed" alt="Logo" width={60} height={60} objectFit="contain" />
       <Typography variant="h4" component="div" pl={4}>
         {title}
       </Typography>
