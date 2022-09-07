@@ -1,0 +1,10 @@
+REPO_NAME=mgemi1
+ACCESS_TOKEN=MC5ZdjZRS3hJQUFDd0Fha09C.d--_vUPvv70nfe-_ve-_vTLvv73vv73vv71o77-977-9dnTvv73vv70jE--_ve-_ve-_ve-_vSh177-977-977-9XFY
+
+NEXT_PUBLIC_VERCEL_SERVER_ENDPOINT=https://mgemi-prismic-slice-finder-i564wvy16-jinglebaba.vercel.app
+NEXT_PUBLIC_PROJECT_NAME=Mgemi
+NEXT_PUBLIC_PROJECT_LOGO_IMAGE=/logo.png
+NEXT_PUBLIC_PROJECT_HOME_IMAGE=/homepage.png
+
+Add images by creating a public folder
+
